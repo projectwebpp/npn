@@ -49,3 +49,10 @@
       @keyframes rotate {
           100%{transform: rotate(360deg)}
       }
+.bg-primary {
+    background-color: #0d6efd!important;
+}
+.bg-footer {
+    background-color: #0d6efd!important;
+}
+      
