@@ -1,4 +1,4 @@
-const cr = "©Copyright 2023  <img src='https://i.im.ge/2022/12/18/dnNRqa.2564-01-03-094436.png' width='25' height='25' alt='AllaboutITAppScript'> Teerapong Promwang"
+const cr = "©Copyright 2023  <img src='http://i.im.ge/2022/12/18/dnNRqa.2564-01-03-094436.png' width='25' height='25' alt='AllaboutITAppScript'> Teerapong Promwang"
 const text = document.getElementById("text").innerHTML = `<div id="loader">
     <div class="overlay">
       <div class="overlay__inner">
